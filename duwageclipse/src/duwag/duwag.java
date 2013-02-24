@@ -5,5 +5,9 @@ public class duwag {
 	{
 		
 	}
+	public void hello2()
+	{
+		
+	}
 
 }
